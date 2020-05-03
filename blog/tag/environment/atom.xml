@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>North City Neighborhood Association</title>
+  <link href="http://NorthCityNA.github.io/blog/tag/environment/" rel="alternate"/>
+  <link href="http://NorthCityNA.github.io/blog/tag/environment/atom.xml" rel="self"/>
+  <id>http://northcityna.github.io/blog/tag/environment/</id>
+  <updated>2019-06-05T18:43:00-07:00</updated>
+  <author>
+    <name>The North City Neighborhood Association</name>
+  </author>
+    <entry>
+      <title>North City Loop Walk</title>
+      <link href="http://NorthCityNA.github.io/blog/2019/06/2019-north-city-loop-walk/" rel="alternate"/>
+      <published>2019-06-05T18:43:00-07:00</published>
+      <updated>2019-06-05T18:43:00-07:00</updated>
+      <author><name>The North City Neighborhood Association</name></author>
+      <id>tag:northcityna.org,2014:2019-06-05/2019-north-city-loop-walk</id>
+        <summary type="html">&lt;p&gt;Enjoy a pleasant after-dinner walk around the North City Neighborhood.
+We’ll start at North City Elementary and make a 2 mile loop by the North City Park,
+over the 195th pedestrian-only I-5 ridge and Shoreline Park.
+The second half of this walk takes us through area that is being transformed
+by the coming of Light Rail.
+Come enjoy this wonderful area while it is still a quiet part of the City.&lt;/p&gt;
+</summary>
+      <category scheme="http://northcityna.github.io/blog/categories.html" term="events" label="Events"/><category scheme="http://northcityna.github.io/blog/tag/" term="community" label="community"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="free" label="free"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="environment" label="environment"/>
+    </entry>
+    <entry>
+      <title>Urban Forest Restoration Work Party at Hamlin Park</title>
+      <link href="http://NorthCityNA.github.io/blog/2019/06/2019-06-hamlin-work-party/" rel="alternate"/>
+      <published>2019-06-05T18:36:00-07:00</published>
+      <updated>2019-06-05T18:36:00-07:00</updated>
+      <author><name>The North City Neighborhood Association</name></author>
+      <id>tag:northcityna.org,2014:2019-06-05/2019-06-hamlin-work-party</id>
+        <summary type="html">&lt;p&gt;Join Shoreline&#39;s Master Stewards for community work parties at Hamlin Park to remove invasive plants and lay mulch. Everyone is Welcome!&lt;/p&gt;
+</summary>
+      <category scheme="http://northcityna.github.io/blog/categories.html" term="events" label="Events"/><category scheme="http://northcityna.github.io/blog/tag/" term="community" label="community"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="gardening" label="gardening"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="city-parks" label="city parks"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="environment" label="environment"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="volunteer" label="volunteer"/>
+    </entry>
+    <entry>
+      <title>Light Rail Construction Update</title>
+      <link href="http://NorthCityNA.github.io/blog/2019/05/light-rail-construction-update/" rel="alternate"/>
+      <published>2019-05-13T19:58:00-07:00</published>
+      <updated>2019-05-13T19:58:00-07:00</updated>
+      <author><name>The North City Neighborhood Association</name></author>
+      <id>tag:northcityna.org,2014:2019-05-13/light-rail-construction-update</id>
+        <summary type="html">&lt;img alt=&#34;Light Rail Construction Update&#34; class=&#34;img-responsive&#34; src=&#34;http://NorthCityNA.github.io/images/2019-05-13_light_rail_forum.png&#34;/&gt;
+</summary>
+      <category scheme="http://northcityna.github.io/blog/categories.html" term="events" label="Events"/><category scheme="http://northcityna.github.io/blog/tag/" term="light-rail" label="light rail"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="traffic" label="traffic"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="construction" label="construction"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="development" label="development"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="environment" label="environment"/>
+    </entry>
+</feed>

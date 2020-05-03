@@ -1,0 +1,8 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//dairiki.org//NorthCityNA_Blog ncna.plugins.events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:North City Neighborhood Association
+X-WR-TIMEZONE:America/Los_Angeles
+END:VCALENDAR

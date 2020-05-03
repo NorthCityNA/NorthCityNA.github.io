@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>North City Neighborhood Association</title>
+  <link href="http://NorthCityNA.github.io/blog/tag/shoredog/" rel="alternate"/>
+  <link href="http://NorthCityNA.github.io/blog/tag/shoredog/atom.xml" rel="self"/>
+  <id>http://northcityna.github.io/blog/tag/shoredog/</id>
+  <updated>2014-01-17T05:36:06-08:00</updated>
+  <author>
+    <name>The North City Neighborhood Association</name>
+  </author>
+    <entry>
+      <title>ShoreDOG Kickoff Membership Meeting</title>
+      <link href="http://NorthCityNA.github.io/blog/2014/01/shoredog-kickoff-membership-meeting-rst/" rel="alternate"/>
+      <published>2014-01-16T05:36:06-08:00</published>
+      <updated>2014-01-17T05:36:06-08:00</updated>
+      <author><name>The North City Neighborhood Association</name></author>
+      <id>tag:northcityna.org,2014:2014-01-16/shoredog-kickoff-membership-meeting-rst</id>
+        <summary type="html">&lt;p&gt;Come learn how you can make a difference at Shoreline’s off-leash dog areas.&lt;/p&gt;
+&lt;p&gt;Join us for a fun evening with &lt;a class=&#34;reference external&#34; href=&#34;http://www.shoredog.org/&#34;&gt;ShoreDOG&lt;/a&gt;. View video contest entries and vote on
+the best one. Share your ideas for what ShoreDOG should be doing this year. Meet
+other off leash dog area users and the ShoreDOG leaders!&lt;/p&gt;
+</summary>
+      <category scheme="http://northcityna.github.io/blog/categories.html" term="events" label="Events"/><category scheme="http://northcityna.github.io/blog/tag/" term="dogs" label="dogs"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="shoredog" label="shoredog"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="city-parks" label="city parks"/>
+    </entry>
+</feed>

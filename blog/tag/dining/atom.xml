@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>North City Neighborhood Association</title>
+  <link href="http://NorthCityNA.github.io/blog/tag/dining/" rel="alternate"/>
+  <link href="http://NorthCityNA.github.io/blog/tag/dining/atom.xml" rel="self"/>
+  <id>http://northcityna.github.io/blog/tag/dining/</id>
+  <updated>2020-02-18T15:00:00-08:00</updated>
+  <author>
+    <name>The North City Neighborhood Association</name>
+  </author>
+    <entry>
+      <title>North City Neighborhood Social</title>
+      <link href="http://NorthCityNA.github.io/blog/2020/02/2020-02-neighborhood-social/" rel="alternate"/>
+      <published>2020-02-18T15:00:00-08:00</published>
+      <updated>2020-02-18T15:00:00-08:00</updated>
+      <author><name>The North City Neighborhood Association</name></author>
+      <id>tag:northcityna.org,2014:2020-02-18/2020-02-neighborhood-social</id>
+        <content type="html">&lt;p&gt;Our next meeting will be Tuesday February 25 at
+&lt;em&gt;Monka Brewing&lt;/em&gt; in North City&lt;/p&gt;
+&lt;p&gt;Please join the NCNA, have a beverage,
+and meet your neighbors in a casual setting
+to talk about issues and events in North City.
+Learn more about, and help shape the NCNA&#39;s plans for 2020.&lt;/p&gt;
+&lt;p&gt;Details &lt;a class=&#34;reference external&#34; href=&#34;http://NorthCityNA.github.io/blog/2020/01/2020-february-meeting/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;a class=&#34;reference external image-reference&#34; href=&#34;http://NorthCityNA.github.io/blog/2020/01/2020-february-meeting/&#34;&gt;&lt;img alt=&#34;Photo of neighbors enjoying some beer&#34; class=&#34;img-responsive&#34; src=&#34;http://NorthCityNA.github.io/images/beers.jpg&#34; /&gt;&lt;/a&gt;
+&lt;!-- more --&gt;
+</content>
+      <category scheme="http://northcityna.github.io/blog/categories.html" term="news" label="News"/><category scheme="http://northcityna.github.io/blog/tag/" term="community" label="community"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="ncna" label="ncna"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="city" label="city"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="dining" label="dining"/>
+    </entry>
+    <entry>
+      <title>Come to the North City Jazz Walk!</title>
+      <link href="http://NorthCityNA.github.io/blog/2019/08/come-to-the-jazz-walk/" rel="alternate"/>
+      <published>2019-08-06T14:02:00-07:00</published>
+      <updated>2019-08-06T14:02:00-07:00</updated>
+      <author><name>The North City Neighborhood Association</name></author>
+      <id>tag:northcityna.org,2014:2019-08-06/come-to-the-jazz-walk</id>
+        <content type="html">&lt;p&gt;The &lt;a class=&#34;reference external&#34; href=&#34;http://NorthCityNA.github.io/blog/2019/08/north-city-jazz-walk-13/&#34;&gt;North City Jazz Walk&lt;/a&gt; is next Tuesday evening.
+Don’t miss it!&lt;/p&gt;
+&lt;a class=&#34;reference external image-reference&#34; href=&#34;http://NorthCityNA.github.io/blog/2019/08/north-city-jazz-walk-13/&#34;&gt;&lt;img alt=&#34;13th Annual North City Jazz Walk&#34; class=&#34;img-responsive&#34; src=&#34;http://NorthCityNA.github.io/images/cropped-2019-website-masthead-north-city-jazz-walk.jpg&#34; /&gt;&lt;/a&gt;
+</content>
+      <category scheme="http://northcityna.github.io/blog/categories.html" term="news" label="News"/><category scheme="http://northcityna.github.io/blog/tag/" term="music" label="music"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="community" label="community"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="kids" label="kids"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="dining" label="dining"/>
+    </entry>
+    <entry>
+      <title>12th Annual North City Jazz Walk</title>
+      <link href="http://NorthCityNA.github.io/blog/2019/08/north-city-jazz-walk-13/" rel="alternate"/>
+      <published>2019-08-06T13:55:00-07:00</published>
+      <updated>2019-08-06T13:55:00-07:00</updated>
+      <author><name>The North City Neighborhood Association</name></author>
+      <id>tag:northcityna.org,2014:2019-08-06/north-city-jazz-walk-13</id>
+        <summary type="html">&lt;p&gt;Dance under the setting sun and stars to the strains of old and new jazz,
+enjoy delicious “Jazz Bites” food,
+tours of Shoreline Fire District’s fire truck,
+a beer and wine garden, and more —
+all at North City’s thirteenth annual Jazz Walk&lt;/p&gt;
+</summary>
+      <category scheme="http://northcityna.github.io/blog/categories.html" term="events" label="Events"/><category scheme="http://northcityna.github.io/blog/tag/" term="music" label="music"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="community" label="community"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="dining" label="dining"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="kids" label="kids"/>
+    </entry>
+</feed>

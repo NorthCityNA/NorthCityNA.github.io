@@ -1,0 +1,9 @@
+/* TEAM */
+  Developer: Jeff Dairiki
+  Email: dairiki@dairiki.org
+
+/* SITE */
+  Language: English
+  Doctype: HTML5
+  IDE: Emacs
+  Tech: Python, Pelican, Jinja2, Bootstrap, jQuery

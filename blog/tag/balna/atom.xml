@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>North City Neighborhood Association</title>
+  <link href="http://NorthCityNA.github.io/blog/tag/balna/" rel="alternate"/>
+  <link href="http://NorthCityNA.github.io/blog/tag/balna/atom.xml" rel="self"/>
+  <id>http://northcityna.github.io/blog/tag/balna/</id>
+  <updated>2015-10-10T16:43:00-07:00</updated>
+  <author>
+    <name>The North City Neighborhood Association</name>
+  </author>
+    <entry>
+      <title>Ballinger Neighborhood Association Meeting</title>
+      <link href="http://NorthCityNA.github.io/blog/2015/10/balna-vision-hope/" rel="alternate"/>
+      <published>2015-10-10T16:43:00-07:00</published>
+      <updated>2015-10-10T16:43:00-07:00</updated>
+      <author><name>The North City Neighborhood Association</name></author>
+      <id>tag:northcityna.org,2014:2015-10-10/balna-vision-hope</id>
+        <summary type="html">&lt;div class=&#34;section&#34; id=&#34;speakers-from-vision-house-and-hopelink&#34;&gt;
+&lt;h3&gt;Speakers from Vision House and Hopelink&lt;/h3&gt;
+&lt;p&gt;The &lt;a class=&#34;reference external&#34; href=&#34;http://ballingerneighborhood.org/&#34;&gt;Ballinger Neighborhood Association&lt;/a&gt;
+welcomes special guest speakers from &lt;a class=&#34;reference external&#34; href=&#34;http://vision-house.org&#34;&gt;Vision House&lt;/a&gt; and &lt;a class=&#34;reference external&#34; href=&#34;http://hope-link.org&#34;&gt;Hopelink&lt;/a&gt;
+to speak on “the human face” of Shoreline’s economically challenged residents
+and the supportive programs available to help people in need.&lt;/p&gt;
+&lt;/div&gt;</summary>
+      <category scheme="http://northcityna.github.io/blog/categories.html" term="events" label="Events"/><category scheme="http://northcityna.github.io/blog/tag/" term="community" label="community"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="balna" label="balna"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="development" label="development"/>
+    </entry>
+</feed>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>North City Neighborhood Association</title>
+  <link href="http://NorthCityNA.github.io/blog/tag/gardening/" rel="alternate"/>
+  <link href="http://NorthCityNA.github.io/blog/tag/gardening/atom.xml" rel="self"/>
+  <id>http://northcityna.github.io/blog/tag/gardening/</id>
+  <updated>2019-06-05T18:36:00-07:00</updated>
+  <author>
+    <name>The North City Neighborhood Association</name>
+  </author>
+    <entry>
+      <title>Urban Forest Restoration Work Party at Hamlin Park</title>
+      <link href="http://NorthCityNA.github.io/blog/2019/06/2019-06-hamlin-work-party/" rel="alternate"/>
+      <published>2019-06-05T18:36:00-07:00</published>
+      <updated>2019-06-05T18:36:00-07:00</updated>
+      <author><name>The North City Neighborhood Association</name></author>
+      <id>tag:northcityna.org,2014:2019-06-05/2019-06-hamlin-work-party</id>
+        <summary type="html">&lt;p&gt;Join Shoreline&#39;s Master Stewards for community work parties at Hamlin Park to remove invasive plants and lay mulch. Everyone is Welcome!&lt;/p&gt;
+</summary>
+      <category scheme="http://northcityna.github.io/blog/categories.html" term="events" label="Events"/><category scheme="http://northcityna.github.io/blog/tag/" term="community" label="community"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="gardening" label="gardening"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="city-parks" label="city parks"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="environment" label="environment"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="volunteer" label="volunteer"/>
+    </entry>
+    <entry>
+      <title>Garden Plot Applications Now Available for Sunset and Twin Ponds Parks</title>
+      <link href="http://NorthCityNA.github.io/blog/2014/02/garden-plots-available/" rel="alternate"/>
+      <published>2014-02-17T16:06:30-08:00</published>
+      <updated>2014-02-17T16:06:30-08:00</updated>
+      <author><name>The North City Neighborhood Association</name></author>
+      <id>tag:northcityna.org,2014:2014-02-17/garden-plots-available</id>
+        <summary type="html">&lt;p&gt;Interested in gardening and need a sunny place to plant?
+Apply for a Shoreline Parks department garden plot now.
+There are four plots available at Twin Ponds, and approximately twenty plots
+available at Sunset School Park.&lt;/p&gt;
+</summary>
+      <category scheme="http://northcityna.github.io/blog/categories.html" term="news" label="News"/><category scheme="http://northcityna.github.io/blog/tag/" term="gardening" label="gardening"/>
+    </entry>
+</feed>

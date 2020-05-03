@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>North City Neighborhood Association</title>
+  <link href="http://NorthCityNA.github.io/blog/tag/history/" rel="alternate"/>
+  <link href="http://NorthCityNA.github.io/blog/tag/history/atom.xml" rel="self"/>
+  <id>http://northcityna.github.io/blog/tag/history/</id>
+  <updated>2015-04-11T08:35:00-07:00</updated>
+  <author>
+    <name>The North City Neighborhood Association</name>
+  </author>
+    <entry>
+      <title>70 Years of “Sourdough Days” — The History of North City</title>
+      <link href="http://NorthCityNA.github.io/blog/2015/04/may-meeting/" rel="alternate"/>
+      <published>2015-04-11T08:35:00-07:00</published>
+      <updated>2015-04-11T08:35:00-07:00</updated>
+      <author><name>The North City Neighborhood Association</name></author>
+      <id>tag:northcityna.org,2014:2015-04-11/may-meeting</id>
+        <content type="html">&lt;div class=&#34;figure&#34;&gt;
+&lt;a class=&#34;reference external image-reference&#34; href=&#34;http://NorthCityNA.github.io/blog/2015/02/ncna-may-meeting/&#34;&gt;&lt;img alt=&#34;You may receive a postcard like this soon&#34; class=&#34;img-responsive&#34; src=&#34;http://NorthCityNA.github.io/images/2015-04-11_may_postcard.png&#34; /&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;The &lt;a class=&#34;reference external&#34; href=&#34;http://NorthCityNA.github.io/blog/2015/02/ncna-may-meeting/&#34;&gt;May meeting&lt;/a&gt; of the &lt;strong&gt;North City Neighboorhood Association&lt;/strong&gt; will
+include a presentation on the history of North City.  More details can
+be found on the &lt;a class=&#34;reference external&#34; href=&#34;http://NorthCityNA.github.io/blog/2015/02/ncna-may-meeting/&#34;&gt;event page&lt;/a&gt;.&lt;/p&gt;
+</content>
+      <category scheme="http://northcityna.github.io/blog/categories.html" term="news" label="News"/><category scheme="http://northcityna.github.io/blog/tag/" term="ncna" label="ncna"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="community" label="community"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="history" label="history"/>
+    </entry>
+    <entry>
+      <title>North City Neighborhood Association Meeting</title>
+      <link href="http://NorthCityNA.github.io/blog/2015/02/ncna-may-meeting/" rel="alternate"/>
+      <published>2015-02-04T07:30:00-08:00</published>
+      <updated>2015-04-10T07:49:00-07:00</updated>
+      <author><name>The North City Neighborhood Association</name></author>
+      <id>tag:northcityna.org,2014:2015-02-04/ncna-may-meeting</id>
+        <summary type="html">&lt;p&gt;&lt;strong&gt;Topic: 70 Years of “Sourdough Days” — The History of North City&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;reference external&#34; href=&#34;http://www.shorelineareanews.com/2015/04/vicki-stiles-honored-by-association-of.html&#34;&gt;Vicki Stiles&lt;/a&gt;, director of the &lt;a class=&#34;reference external&#34; href=&#34;http://shorelinehistoricalmuseum.org/&#34;&gt;Shoreline Historical Museum&lt;/a&gt;, will
+be giving a presentation on the history of North City:&lt;/p&gt;
+&lt;ul class=&#34;simple&#34;&gt;
+&lt;li&gt;How did North City get it’s name?&lt;/li&gt;
+&lt;li&gt;What were the “Sourdough Days?”&lt;/li&gt;
+&lt;li&gt;How does the past inform the present?&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+      <category scheme="http://northcityna.github.io/blog/categories.html" term="events" label="Events"/><category scheme="http://northcityna.github.io/blog/tag/" term="community" label="community"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="ncna" label="ncna"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="history" label="history"/>
+    </entry>
+</feed>

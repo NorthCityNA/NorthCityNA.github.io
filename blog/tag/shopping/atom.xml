@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>North City Neighborhood Association</title>
+  <link href="http://NorthCityNA.github.io/blog/tag/shopping/" rel="alternate"/>
+  <link href="http://NorthCityNA.github.io/blog/tag/shopping/atom.xml" rel="self"/>
+  <id>http://northcityna.github.io/blog/tag/shopping/</id>
+  <updated>2019-06-06T17:29:00-07:00</updated>
+  <author>
+    <name>The North City Neighborhood Association</name>
+  </author>
+    <entry>
+      <title>Shoreline’s Farmers’ Market open Saturday, June 8</title>
+      <link href="http://NorthCityNA.github.io/blog/2019/06/farmers-market-opens-june-2019/" rel="alternate"/>
+      <published>2019-06-06T17:29:00-07:00</published>
+      <updated>2019-06-06T17:29:00-07:00</updated>
+      <author><name>The North City Neighborhood Association</name></author>
+      <id>tag:northcityna.org,2014:2019-06-06/farmers-market-opens-june-2019</id>
+        <summary type="html">&lt;p&gt;The &lt;a class=&#34;reference external&#34; href=&#34;http://www.shorelinefarmersmarket.org/&#34;&gt;Shoreline Farmers Market&lt;/a&gt; will be open Saturdays
+from June 8 through October 5, 10am–3pm at Shoreline Place near Central Market.
+The market features produce, flowers, food trucks, live music and more.&lt;/p&gt;
+&lt;p&gt;Additionally, the &lt;a class=&#34;reference external&#34; href=&#34;https://www.dshs.wa.gov/esa/csd-mobile-office/mobile-community-services-office&#34;&gt;DSHS Mobile Community Services Office&lt;/a&gt; will be there on opening day with information about a variety of assistance programs.&lt;/p&gt;
+</summary>
+      <category scheme="http://northcityna.github.io/blog/categories.html" term="news" label="News"/><category scheme="http://northcityna.github.io/blog/tag/" term="city" label="city"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="community" label="community"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="shopping" label="shopping"/>
+<category scheme="http://northcityna.github.io/blog/tag/" term="kids" label="kids"/>
+    </entry>
+</feed>
